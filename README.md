@@ -1,5 +1,6 @@
-[![Header](https://raw.githubusercontent.com/LavamYadav/LavamYadav/master/devops.jpg "Header")](https://martinheinz.dev/)
+[![Header](https://raw.githubusercontent.com/LavamYadav/LavamYadav/master/readme_header.png "Header")](https://github.com/)
 ### Hi there 👋
+My name is Lavam Yadav and I'm a DevOps engineer. Currently working at HashedIn.
 
 
 <!--
